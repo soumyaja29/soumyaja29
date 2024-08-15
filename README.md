@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @soumyaja
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Soumyaja !!
+- 👀 I’m interested in coding (python) and also research
+- 🌱 I’m currently learning python in advance level
+- 💞️ I’m looking to collaborate on projects related artificial intelligence and python
 - 📫 How to reach me link din
 - 😄 Pronouns: her
 - ⚡ Fun fact: ...
